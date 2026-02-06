@@ -16,7 +16,7 @@ Keywords: Classification, Image processing, k nearest neighbor classifier, Pista
 
 
 morphological Features (12 Features)
-1. Area
+1. Area 
 2. Perimeter
 3. Major_Axis
 4. Minor_Axis

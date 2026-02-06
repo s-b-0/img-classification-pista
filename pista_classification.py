@@ -9,8 +9,6 @@
         "# Final Mini-Project Info 3950\n",
         "name: Sarah Benkoussa\n",
         "\n",
-        "netID: sb967\n",
-        "\n",
         "Using the pistachio images dataset found here: https://www.muratkoklu.com/datasets/\n",
         "\n",
         "This project aims to explore and evaluate how different models and architectures can classify images of pistachio breeds."
